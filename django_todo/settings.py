@@ -26,7 +26,7 @@ SECRET_KEY = '0pub@ue^0%fucb8c54go&!u#%+($z@92utbf)luj0lnseg!tt*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['amylk-django-todo-app.herokuapp.com']
 
 
 # Application definition
